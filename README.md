@@ -6,7 +6,7 @@
 
 ### 게임 소개
 
-<img src="./Results/rollerball_introduce.gif" width="500"/>
+<img src="./Results/rollerball_introduce.gif" width="700"/>
 
 ## 🚀 개발 환경
 
@@ -41,12 +41,15 @@
 
 학습이 진행됨에 따라 에이전트가 받는 보상과 손실 함수의 변화는 아래 그래프와 같습니다.
 
-<img src="Results/reward.png" width="500"/>
-<img src="Results/loss_plot.png" width="500"/>
+<img src="Results/reward.png" width="700"/>
+<img src="Results/loss_plot.png" width="700"/>
 
 ## 🤖 학습된 에이전트 플레이
 
 학습이 완료된 에이전트가 실제로 게임을 플레이하는 모습입니다.
 
-<img src="./Results/after_trained_agent.gif" width="500"/>
+<img src="./Results/after_trained_agent.gif" width="700"/>
+
+* 학습 초기 어느 방향으로 가야할 지도 모르다가 점점 앞으로 가야하는 것을 깨닫고 하얀색 공을 조금씩 피하려는 노력이 보였습니다. 
+* 그러나, 게임의 목적을 달성하지 못했고 더 많은 학습이 필요해 보입니다.
 
